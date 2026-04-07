@@ -4,7 +4,7 @@
 
 ---
 
-## 🖥️ Terminal — Commandes disponibles
+## Terminal — Commandes disponibles
 
 ```bash
 whoami       # Présentation de Nicolas
