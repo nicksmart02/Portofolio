@@ -1,27 +1,6 @@
-# 🔐 Nicolas AHADJITSE — Cybersecurity Portfolio
+#  Nicolas AHADJITSE — Cybersecurity Portfolio
 
 > Portfolio professionnel
-
----
-
-## Lancement rapide
-
-```bash
-# Ouvrir directement — aucune installation requise
-double-clic sur index.html
-```
-
-Ou avec un serveur local (meilleur rendu des polices Google) :
-
-```bash
-# Python 3
-python3 -m http.server 8080
-# → http://localhost:8080
-
-# Node.js
-npx serve .
-# → http://localhost:3000
-```
 
 ---
 
@@ -50,23 +29,10 @@ uptime       # Uptime
 
 ---
 
-## 🌐 Compatibilité
-
-| Navigateur | Support |
-|---|---|
-| Chrome / Edge | ✅ Complet |
-| Firefox | ✅ Complet |
-| Safari | ✅ Complet (webkit prefixes inclus) |
-| Mobile Chrome | ✅ Responsive |
-| Mobile Safari | ✅ Responsive |
-
-
----
-
-## 📄 Licence
+##  Licence
 
 Usage personnel libre. Crédits appréciés
 
 ---
 
-*Built with passion & code — Nicolas AHADJITSE · 2026*
+*Nicolas AHADJITSE · 2026*
